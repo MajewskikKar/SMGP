@@ -54,6 +54,7 @@ trows,tcols = small_image.shape[:2]
 cv2.rectangle(large_image, (MPx,MPy),(MPx+tcols,MPy+trows),(0,0,255),2)
 
 # Display the original image with the rectangle around the match.
+
 cv2.imshow('output',large_image)
 
 # The image is only displayed if we call this
