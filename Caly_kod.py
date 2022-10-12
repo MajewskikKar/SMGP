@@ -73,12 +73,14 @@ lt, rt, lb, rb = corner_cords
 min_x, min_y = lt
 max_x, max_y = rb
 
+cropped_image = large_image[min_y:max_y, min_x:max_x]
+
 w = max_x - min_x 
 h = max_y - min_y 
 
 # Display the original image with the rectangle around the match.
 
-cv2.imshow('output',large_image)
+cv2.imshow('output', cropped_image)
 # cv2.imshow('output',large_image[min_x:min_x+w, min_y:min_y+h])
 
 # The image is only displayed if we call this
