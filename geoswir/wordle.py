@@ -9,6 +9,7 @@ class Wordle:
         self.secret: str = secret.upper()
         self.attempts = []
         pass
+    def show_board(self, word:str):
 
     def attempt(self, word:str):
         word = word.upper()
