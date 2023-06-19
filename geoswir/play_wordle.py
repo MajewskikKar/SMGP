@@ -1,5 +1,8 @@
 from wordle import Wordle
 from diction import check_word
+
+
+pygame.init()
 def main():
     print("Cześć graczu geologu")
     wordle = Wordle("erozja")
