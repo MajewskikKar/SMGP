@@ -1,7 +1,7 @@
 from wordle import Wordle
 from diction import check_word
 
-
+#jff
 pygame.init()
 def main():
     print("Cześć graczu geologu")
