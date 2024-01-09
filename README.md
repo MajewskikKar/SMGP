@@ -9,12 +9,13 @@ Poniższy skrypt umożliwia zautomatyzowanie tych czynności dla map SMGP dostę
 Działanie sktypyu jest możliwe dzięki dwów sprzyjającym okolicznościom:
 1. Instytut udostępnia swoje mapy, których ramki są niemal identyczne we wszysktich mapach,
     (odwiedź: <a>https://geologia.pgi.gov.pl/karto_geo/</a>)
-2. Instytut udostępnia ramkę dla wszysktich arkuszy w postaci pliku shapefile. Umożliwiło to wyciągnięcie koordynatów i wyeksportowanie ich do tabeli excelowskiej.
+3. Instytut udostępnia ramkę dla wszysktich arkuszy w postaci pliku shapefile. Umożliwiło to wyciągnięcie koordynatów i wyeksportowanie ich do tabeli excelowskiej.
 
 Skrypt może stanowić ciekawą bazę pod wycinanie innych rodzajów map. 
 
 Film prezentujący działanie skryptu:
 <a>https://www.youtube.com/watch?v=tFIOSC5ues8</a>
+
 Pliki i foldery konieczne do działania skryptu:
 
 1. folder 'rogi' z czterema jpegami przezentującymi rogi,
