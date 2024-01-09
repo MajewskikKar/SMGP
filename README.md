@@ -31,4 +31,4 @@ Biblioteki (cv2,shutil,openpyxl) należy niestety instalować w interpreterze ar
 
 W razie pytań zachęcam do kontaktu majewskikar@gmail.com
 
-Skrypt stworzony przez Karola Majewskiego
+Skrypt stworzony przez Karola Majewskiego oraz Michała Zjawińskiego.
