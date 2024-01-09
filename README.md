@@ -14,8 +14,7 @@ Działanie sktypyu jest możliwe dzięki dwów sprzyjającym okolicznościom:
 Skrypt może stanowić ciekawą bazę pod wycinanie innych rodzajów map. 
 
 Film prezentujący działanie skryptu:
-
-
+<a>https://www.youtube.com/watch?v=tFIOSC5ues8</a>
 Pliki i foldery konieczne do działania skryptu:
 
 1. folder 'rogi' z czterema jpegami przezentującymi rogi,
